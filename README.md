@@ -19,12 +19,6 @@ I'm **Muhammad Zakia Avlach**.
 
 :key: I’m currently learning back-end technology with **node.js**, **express**, and **mongodb**. And currently learning about data manipulation and analysis with **mysql**.
 
-<p align="left">
-<a href="https://github.com/Avlach30">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Avlach30&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
-
 <!--
 **Avlach30/Avlach30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
