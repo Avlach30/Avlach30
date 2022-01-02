@@ -8,8 +8,8 @@ I'm **Muhammad Zakia Avlach**.
 
 :bulb:  I like several programming languages, especially **javascript**, **sql**, and **python**.
 
-:dart:  I have several certification about **programming**:
-1. [Path Pengembangan Web (Node.js)](https://progate.com/path_certificate/915a6ac2r4ddyb) - Progate
+:dart:  I have several certification about **back-end** and **data** technology:
+1. [NodeJS - The Complete Guide (MVC, REST APIs, GraphQL, Deno)](https://ude.my/UC-a81924ca-1bf2-4b8e-bd19-bd653ae03ab2) - Udemy
 2. [Belajar Dasar Pemrograman Javascript](https://www.dicoding.com/certificates/KEXL3G50WPG2) - Dicoding Indonesia
 3. [Belajar Membuat Aplikasi Back-End untuk Pemula](https://www.dicoding.com/certificates/GRX5K22ORZ0M) - Dicoding Indonesia
 4. [Memulai Pemrograman dengan Python](https://www.dicoding.com/certificates/MEPJL21Y6Z3V) - Dicoding Indonesia
