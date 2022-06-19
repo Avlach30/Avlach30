@@ -16,6 +16,7 @@ I'm **Muhammad Zakia Avlach**.
 5. [Kursus SQL](https://progate.com/course_certificate/e8bc54f6r2135c) - Progate
 6. [Belajar Dasar Visualisasi Data](https://www.dicoding.com/certificates/MEPJL24VWZ3V) - Dicoding Indonesia
 7. [Belajar Dasar Git dengan Github](https://www.dicoding.com/certificates/07Z65JKVJXQR) - Dicoding Indonesia
+8. [Golang Fundamental](https://class.buildwithangga.com/talent/zakiaavlach720/golang-fundamental) - BuildWith Angga
 
 :key: I’m currently learning back-end technology with **node.js**, **express**, and **mongodb**. And currently learning about data manipulation and analysis with **mysql**.
 
